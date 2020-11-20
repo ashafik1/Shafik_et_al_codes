@@ -1,4 +1,4 @@
-# Shafik_et_al_codes
+# Shafik_et_al_m6A_codes
 
 
 ## Trimming adaptors
